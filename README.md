@@ -2,6 +2,8 @@
 
 A sophisticated AI-powered tool that creates human-like thesis and synopsis documents that are completely undetectable as AI-generated.
 
+Deployement at hugging face: https://huggingface.co/spaces/Naz786/Thesis-writer-bot
+
 ## ✨ Features
 
 - **No Plagiarism:** Original research-based content
